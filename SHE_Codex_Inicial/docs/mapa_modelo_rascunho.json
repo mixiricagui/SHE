@@ -1,0 +1,22 @@
+{
+  "versao": "inspecao-2026-11-17",
+  "aprovado": false,
+  "sha256": "PENDENTE_DE_HOMOLOGACAO",
+  "identificacao": {
+    "nome": "H14",
+    "matricula": "AA14",
+    "nascimento": "H15",
+    "filiacao_1": "D16",
+    "filiacao_2": "D17"
+  },
+  "limpar": {
+    "E_Fundamental": ["H14:W14", "AA14:AC14", "H15:N15", "D16:P17", "Q15:W15", "AA15:AC15", "J24:AA24", "J26:AA54"],
+    "E_Fund_Verso": ["C3:O11"]
+  },
+  "pendencias": [
+    "Revisar todos os campos variáveis, inclusive rodapé e campos mistos de rótulo/valor.",
+    "Confirmar escola, campos obrigatórios, cargas horárias, totais e escala.",
+    "Validar impressão frente/verso; original sem área de impressão definida.",
+    "Mapa preliminar: não autoriza emissão nem garante eliminação de todo dado do exemplo."
+  ]
+}

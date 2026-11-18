@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.env.*
+dados/*
+!dados/referencias/
+!dados/referencias/.gitkeep
+!dados/atas/
+!dados/atas/.gitkeep
+modelos/*
+!modelos/.gitkeep
+exports/
+*.sqlite3
+*.db
+.DS_Store
